@@ -1,0 +1,5 @@
+command_1|bring me the bottle of milk|BRINGING(theme: the bottle of milk beneficiary: me)
+command_2|BAD_RECOGNITION|NO_INTERPRETATION
+command_3|BAD_RECOGNITION|NO_INTERPRETATION
+command_4|bring the bottle of milk|BRINGING(theme: the bottle of milk )
+command_5|bring the bottle of milk in the kitchen|BRINGING(goal: in the kitchen , theme: the bottle of milk )

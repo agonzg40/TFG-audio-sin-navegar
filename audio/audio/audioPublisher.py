@@ -21,7 +21,7 @@ class audioPublisher(Node):
     def prueba(self):
 
         #Opening the archive with the verbs
-        archiveAux = open("lexicon/verbs.txt","r")
+        archiveAux = open("src/TFG-audio-sin-navegar-main/lexicon/verbs.txt","r")
         mensaje = archiveAux.read()
 
         aux = ""
